@@ -6,4 +6,4 @@ Running perlin noise directly in the compute shader and printing resulting textu
 I didn't port the noise functions to hlsl, simplexNoise.cginf file from https://forum.unity.com/threads/2d-3d-4d-optimised-perlin-noise-cg-hlsl-library-cginc.218372/
 
 
-![alt text](https://github.com/ComputeShadersPerlinNoise/perlin_image.png)
+![image](perlin_image.png)
